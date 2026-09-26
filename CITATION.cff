@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use SoreQen S1 in your work, please cite it as below."
+title: "SoreQen S1 Series: Open-Weight Reasoning Models"
+authors:
+  - name: "ZorQelis AI"
+date-released: 2026-08-18
+license: Apache-2.0
+url: "https://huggingface.co/zorqelis-ai"
+repository-code: "https://github.com/ZorQelis-AI/soreqen-s1"
+keywords:
+  - large language model
+  - reasoning
+  - open weights
+  - Hinglish
+  - Qwen3.5
